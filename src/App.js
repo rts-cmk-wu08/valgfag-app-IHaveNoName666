@@ -4,15 +4,16 @@ const App = () => {
   return (
     <>
     <header>
-      <p>Header</p>
-      <Link to="/">Home</Link>
-      <Link to="/weather">Weather</Link>
+      <p>Header forhelvede</p>
+      <Link to="/">Home</Link>&nbsp;&nbsp;
+      <Link to="/weather">Weather</Link>&nbsp;&nbsp;
+      <Link to="/location">Weather in my location</Link>
     </header>
       <main>
         <Outlet />
       </main>
       <footer className="footer">
-        <p>Footer</p>
+        <p>Footer NU!</p>
       </footer>
     </>
    );
