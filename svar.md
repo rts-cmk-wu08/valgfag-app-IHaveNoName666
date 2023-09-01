@@ -9,3 +9,6 @@ At du kan indtaste en by's navn, og vejret bliver vist.
 
 Hvilke andre funktionaliteter kunne du forestille dig, at applikationen kunne have (hvis du havde masser af tid)?
 At jeg kunne få mine tal til at skifte farve, enten til rød eller blå, afhængig af graderne.
+
+link til netlify
+https://uk23.netlify.app/
